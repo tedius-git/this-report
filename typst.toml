@@ -1,0 +1,18 @@
+[package]
+name = "this-report"
+version = "0.1.0"
+entrypoint = "template.typ"
+authors = [""]
+license = "MIT"
+description = "Just a template for a lab report"
+homepage = ""
+repository = ""
+keywords = [
+    "template",
+    " lab report",
+    " uni",
+]
+compiler = "0.7.0"
+
+[tool.utpm]
+namespace = "local"
