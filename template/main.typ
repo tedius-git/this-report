@@ -37,7 +37,6 @@ Los resultados obtenidos indican una correlación directa entre las variables in
 
 En la @tabla01 se observó que, al incrementar la magnitud de la variable independiente, los valores de la dependiente también aumentaron en proporción lineal.
 
-
 = 4. Discusión
 Los resultados obtenidos confirman parcialmente las hipótesis iniciales, mostrando una correlación esperada entre las variables estudiadas. Sin embargo, se identificaron algunas discrepancias que podrían atribuirse a errores sistemáticos o limitaciones en la precisión del equipo utilizado. Es importante considerar que factores externos, como fluctuaciones en la temperatura, pudieron haber influido en los resultados.
 
