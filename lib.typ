@@ -33,7 +33,7 @@
       #align(center)[= Abstract] \
       #align(left)[
         #abstract \
-        *#keywords:*
+        *Keywords* #keywords
       ]
     ]
   ])
