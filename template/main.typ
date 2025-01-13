@@ -1,4 +1,4 @@
-#import "@local/divine-words:0.1.0": *
+#import "@preview/divine-words:0.1.0": *
 
 #show: template.with(
   title: " Titulo. Una plantilla para reportes de laboratorio ",
