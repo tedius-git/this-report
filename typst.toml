@@ -1,11 +1,11 @@
 [package]
-name = "this-report"
+name = "divine-words"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["tedius"]
 license = "MIT"
 description = "Just a template for a lab report"
-repository = "https://github.com/tedius-git/this-report"
+repository = "https://github.com/tedius-git/divine-words"
 keywords = [
     "template",
     " lab report",
